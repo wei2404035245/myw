@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dae57855-4fb4-4189-9ff0-ee6b4f4addde" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="dae57855-4fb4-4189-9ff0-ee6b4f4addde" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -251,7 +249,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561596769232</updated>
-      <workItem from="1561596780722" duration="1911000" />
+      <workItem from="1561596780722" duration="2852000" />
     </task>
     <task id="LOCAL-00001" summary="sffd">
       <created>1561598935245</created>
@@ -274,15 +272,21 @@
       <option name="project" value="LOCAL" />
       <updated>1561599222173</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="asdasdasasdasdas">
+      <created>1561599309580</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561599309580</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1911000" />
+    <option name="totallyTimeSpent" value="2852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="2" width="1260" height="944" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -324,7 +328,8 @@
     <MESSAGE value="sffd" />
     <MESSAGE value="asdasdasdas" />
     <MESSAGE value="asdasdas" />
-    <option name="LAST_COMMIT_MESSAGE" value="asdasdas" />
+    <MESSAGE value="asdasdasasdasdas" />
+    <option name="LAST_COMMIT_MESSAGE" value="asdasdasasdasdas" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
